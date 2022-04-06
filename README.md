@@ -1,7 +1,7 @@
 # RESTFUL challenge
 
-### Kickstarter
-Welcome to Kickstarter. Assume we have a model called `Project` that inherits from `ActiveRecord::Base`, a corresponding table called `projects`, and a controller called `ProjectsController` that inherits from `ApplicationController`
+### Kickstartr
+Welcome to Kickstartr. Assume we have a model called `Project` that inherits from `ActiveRecord::Base`, a corresponding table called `projects`, and a controller called `ProjectsController` that inherits from `ApplicationController`
 
 For each of the actions below, write out the corresponding:
 
