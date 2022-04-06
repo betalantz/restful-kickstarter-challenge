@@ -17,3 +17,6 @@ For each of the actions below, write out the corresponding:
 3. Creates a new project based on given parameters
 4. Updates an existing project with given parameters
 5. Deletes an existing project
+
+### BONUS
+Build out the above as a full Rails API with a migration, model, routes, controller.
